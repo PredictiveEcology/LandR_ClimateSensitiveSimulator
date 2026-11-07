@@ -19,7 +19,7 @@ defineModule(sim, list(
     "PredictiveEcology/Biomass_regeneration@development",
     "PredictiveEcology/Biomass_core@modsForFireSense"
   ),
-  version = list(LandR_ClimateSensitiveSimulator = "0.0.0.9000"),
+  version = list(LandR_ClimateSensitiveSimulator = "0.0.0.9001"),
   timeframe = as.POSIXlt(c(NA, NA)),
   timeunit = "year",
   citation = list("citation.bib"),
