@@ -8,7 +8,7 @@ A parent SpaDES module: it has no events, parameters, inputs or outputs of its o
 | [`PredictiveEcology/climateYear@modsForFireSense`](https://github.com/PredictiveEcology/climateYear/tree/modsForFireSense) | the current year's climate layers |
 | [`PredictiveEcology/fireSense@development`](https://github.com/PredictiveEcology/fireSense/tree/development) | itself a parent: the nine fireSense fire modules |
 | [`PredictiveEcology/localEcozones@development`](https://github.com/PredictiveEcology/localEcozones/tree/development) | ecological zones (`ecoregionLayer`) |
-| [`PredictiveEcology/Biomass_borealDataPrep@development`](https://github.com/PredictiveEcology/Biomass_borealDataPrep/tree/development) | initial vegetation and species traits from SCANFI |
+| [`PredictiveEcology/Biomass_borealDataPrep@modsForFireSense`](https://github.com/PredictiveEcology/Biomass_borealDataPrep/tree/modsForFireSense) | initial vegetation and species traits from SCANFI |
 | [`PredictiveEcology/Biomass_regeneration@development`](https://github.com/PredictiveEcology/Biomass_regeneration/tree/development) | post-fire regeneration |
 | [`PredictiveEcology/Biomass_core@modsForFireSense`](https://github.com/PredictiveEcology/Biomass_core/tree/modsForFireSense) | forest growth, mortality and succession |
 

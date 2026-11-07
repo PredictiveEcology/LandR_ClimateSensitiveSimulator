@@ -15,7 +15,7 @@ defineModule(sim, list(
     "PredictiveEcology/climateYear@modsForFireSense",
     "PredictiveEcology/fireSense@development",
     "PredictiveEcology/localEcozones@development",
-    "PredictiveEcology/Biomass_borealDataPrep@development",
+    "PredictiveEcology/Biomass_borealDataPrep@modsForFireSense",
     "PredictiveEcology/Biomass_regeneration@development",
     "PredictiveEcology/Biomass_core@modsForFireSense"
   ),
